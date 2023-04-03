@@ -1,0 +1,61 @@
+/*FLEX 1 - ROW EM LINHA*/
+.flex-1{
+    background-color: lightblue;
+    /*Alterando a disply a div para o tipo flex para ficar 
+    mais facil estilizar as posições dos elementos filhos
+    - por padrã o alinhamento é em linha ROW*/
+    display: flex;
+}
+/*FLEX - 2 COLUMN EM COLUNA*/
+.flex-coluna{
+    background-color: lightgray;
+    padding: 20px;
+    margin-top: 20px;
+    display: flex;
+    /*O flex direction altera a disposição dos elementos para
+    o tipo coluna colocando um embaixo do outro*/
+    flex-direction: column;
+}
+.warp{
+    background-color: lightgray;
+    padding: 20px;
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.warp > img{
+    width: 200px;
+    margin: 10px;
+}
+.Centralizar-x{
+    background-color: lightgray;
+    padding: 20px;
+    margin-top: 20px;
+    display: flex;
+    /*Centralizar horizontalmente*/
+    justify-content:center;
+}
+.space-around{
+    background-color: lightgray;
+    padding: 20px;
+    margin-top: 20px;
+    display: flex;
+    /*Centralizar horizontalmente*/
+    justify-content:space-around;
+}
+.space-between{
+    background-color: lightgray;
+    padding: 20px;
+    margin-top: 20px;
+    display: flex;
+    /*Centralizar horizontalmente*/
+    justify-content:space-between;
+}
+.flex-end{
+    background-color: lightgray;
+    padding: 20px;
+    margin-top: 20px;
+    display: flex;
+    /*Centralizar horizontalmente*/
+    justify-content:flex-end;
+}

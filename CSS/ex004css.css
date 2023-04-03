@@ -1,0 +1,15 @@
+.sombreado{
+    text-shadow: 1px 1px 1px rgb(30, 0, 255);
+}
+h1{
+  color: white;
+}
+h2{
+    color: green;
+}
+.fonte-padrao{
+font-family: Arial, Helvetica, Sans-serif;
+}
+.fonte-google{
+    font-family: 'Pacifico', cursive;
+}

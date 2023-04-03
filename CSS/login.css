@@ -1,0 +1,52 @@
+body
+{
+    background: linear-gradient(to right, rgb(255, 230, 0), rgb(255, 98, 0), rgb(163, 35, 0));
+}
+h1
+{
+    text-align: center;
+}
+.div1
+{
+    background: linear-gradient(rgb(8, 27, 75), pink);
+    border: solid black;
+    width: 500px;
+    margin: 0 auto;
+}
+.Email
+{
+    text-align: justify;
+    background-color: rgb(197, 146, 146);
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+.Usario
+{
+    text-align: justify;
+    background-color: rgb(153, 64, 64);
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+.Senha
+{
+    text-align: justify;
+    background-color: white;
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+.Entrar
+{
+    border-radius: 10px;
+    background-color: rgb(255, 122, 122);
+    width: 200px;
+    height: 40;
+    margin: 0 auto;
+}
+

@@ -1,0 +1,21 @@
+.sombreado{
+    text-shadow: 1px 1px 1px rgb(0, 21, 255);
+}
+h1{
+    color: white;
+    text-align: center;
+}
+h2{
+    color: rgb(235, 0, 0);
+    font-family: 'Pacifico', cursive;
+}
+h3{
+    color: rgb(184, 255, 3);
+    font-family: 'Pacifico', cursive;
+}
+h4{
+    color: rgb(0, 255, 94);
+    font-family: 'Pacifico', cursive;
+    text-align: right;
+}
+

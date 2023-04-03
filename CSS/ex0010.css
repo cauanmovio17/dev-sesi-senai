@@ -1,0 +1,153 @@
+body{
+    background-color: black;
+}
+.botão {
+    background-color: rgb(95, 2, 255);
+    padding: 10px;
+    text-decoration: none;
+    color: hwb(208 32% 36%);
+
+    box-shadow: 2px 2px 5px black;
+    text-shadow: 2px 2px 5px black;
+    border: 2px solid rgb(83, 38, 120);
+    margin: 10px;
+
+}
+
+.botão2 {
+    background-color: rgb(13, 255, 0);
+    padding: 10px;
+    text-decoration: none;
+    color: #ffffff;
+
+    box-shadow: 2px 2px 5px black;
+    text-shadow: 2px 2px 5px black;
+    border: 2px solid rgb(26, 133, 38);
+    margin: 10px;
+}
+
+.botão3 {
+    background-color: rgb(128, 31, 31);
+    padding: 10px;
+    text-decoration: none;
+    color: hwb(208 32% 36%);
+
+    box-shadow: 2px 2px 5px black;
+    text-shadow: 2px 2px 5px hwb(0 0% 100%);
+    border: 2px solid rgb(255, 0, 0);
+    border-radius:20px 0px 20px 0px;
+    margin: 10px;
+}
+
+.botão4 {
+    background-color: rgb(134, 152, 39);
+    padding: 10px;
+    text-decoration: none;
+    color: hwb(208 32% 36%);
+
+    box-shadow: 2px 2px 5px black;
+    text-shadow: 2px 2px 5px black;
+    border: 2px solid rgb(238, 255, 0);
+    border-radius:35px 0px 0px 35px;
+    margin: 10px;
+}
+.botão5 {
+    background-color: rgb(95, 2, 255);
+    padding: 10px;
+    text-decoration: none;
+    color: hwb(208 32% 36%);
+
+    box-shadow: 2px 2px 5px black;
+    text-shadow: 2px 2px 5px black;
+    border: 2px solid rgb(83, 38, 120);
+    margin: 10px;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.botão6 {
+    background: linear-gradient(to right, green,  );
+    padding: 10px;
+    text-decoration: none;
+    color: #ffffff;
+
+    box-shadow: 2px 2px 5px black;
+    text-shadow: 2px 2px 5px black;
+    border: 2px solid rgb(26, 133, 38);
+    margin: 10px;
+    border-radius: 20px 20px 20px 20    px;
+}
+
+
+.botão7 {
+    background-color: rgb(60, 255, 0);
+    padding: 10px;
+    text-decoration: none;
+    color: hwb(208 32% 36%);
+
+    box-shadow: 2px 2px 5px rgb(0, 255, 21);
+    text-shadow: 2px 2px 5px hwb(118 0% 0%);
+    border: 2px solid rgb(0, 255, 17);
+    border-radius:20px 0px 20px 0px;
+    margin: 10px;
+}
+
+.botão8 {
+    background-color: rgb(0, 0, 0);
+    padding: 10px;
+    text-decoration: none;
+    color: hwb(208 32% 36%);
+
+    box-shadow: 2px 2px 5px rgb(255, 0, 132);
+    text-shadow: 2px 2px 5px black;
+    border: 2px solid rgb(255, 0, 230);
+    border-radius:35px 0px 0px 35px;
+    margin: 10px;
+}
+.botão9 {
+    background-color: rgb(0, 0, 0);
+    padding: 10px;
+    text-decoration: none;
+    color: hwb(208 32% 36%);
+
+    box-shadow: 2px 2px 5px rgb(255, 0, 174);
+    text-shadow: 2px 2px 5px black;
+    border: 2px solid rgb(255, 0, 153);
+    border-radius:35px 0px 0px 35px;
+    margin: 10px;
+}
+.botão10 {
+    background-color: rgb(0, 0, 0);
+    padding: 10px;
+    text-decoration: none;
+    color: hwb(208 32% 36%);
+
+    box-shadow: 2px 2px 5px rgb(255, 132, 0);
+    text-shadow: 2px 2px 5px black;
+    border: 2px solid rgb(255, 162, 0);
+    border-radius:35px 0px 0px 35px;
+    margin: 10px;
+}
+.botão11 {
+    background-color: rgb(0, 0, 0);
+    padding: 10px;
+    text-decoration: none;
+    color: hwb(208 32% 36%);
+
+    box-shadow: 2px 2px 5px rgb(246, 255, 0);
+    text-shadow: 2px 2px 5px black;
+    border: 2px solid rgb(187, 255, 0);
+    border-radius:35px 0px 0px 35px;
+    margin: 10px;
+}
+.botão12 {
+    background-color: rgb(0, 0, 0);
+    padding: 10px;
+    text-decoration: none;
+    color: hwb(208 32% 36%);
+
+    box-shadow: 2px 2px 5px rgb(4, 255, 0);
+    text-shadow: 2px 2px 5px black;
+    border: 2px solid rgb(9, 255, 0);
+    border-radius:35px 0px 0px 35px;
+    margin: 10px;
+}
